@@ -1,2 +1,2 @@
-# KiyosatoSomeya.github.io
-Home page for description of requirements
+# URL
+https://kiyosatosomeya.github.io/
